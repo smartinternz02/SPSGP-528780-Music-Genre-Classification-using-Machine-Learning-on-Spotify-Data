@@ -1,0 +1,8 @@
+# SPSGP-528780-Music-Genre-Classification-using-Machine-Learning-on-Spotify-Data
+Music Genre Classification using Machine Learning on Spotify Data.
+The dataset link is https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+The technologies Used are the Python and the Flask.
+Flask:: 
+Flask is a lightweight and powerful Python web framework used for building web applications. Known for its simplicity and flexibility, Flask allows developers to create web applications rapidly and efficiently. It follows the WSGI (Web Server Gateway Interface) standard, making it compatible with various web servers and platforms. Flask's minimalistic design means that it provides only the essentials for web development, leaving it open to extension with various libraries and third-party tools based on specific project needs. Its modular architecture enables developers to pick and choose the components they require, promoting a clean and maintainable codebase.
+
+With Flask, routing is straightforward, enabling developers to define URL patterns and associate them with the corresponding view functions. Templating support allows for the creation of dynamic and responsive user interfaces, while its built-in development server aids in rapid prototyping and testing. Flask also supports various extensions for common functionalities, such as handling database operations, authentication, and form validation. Its vast community ensures continuous support and an abundance of resources for learning and troubleshooting. Whether for small projects or large-scale applications, Flask's ease of use and extensibility have made it a popular choice among developers seeking a solid foundation for web development in Python.
